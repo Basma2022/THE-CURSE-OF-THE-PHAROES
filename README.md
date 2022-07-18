@@ -9,3 +9,6 @@ Download Link: https://www.mediafire.com/file/yjdggghgn0n5j2b/The_Curse_Of_The_P
 Trailer Link: https://www.facebook.com/100071274374642/videos/374831171029887/
 
 Facebook Page: https://www.facebook.com/profile.php?id=100071274374642
+
+![image](https://user-images.githubusercontent.com/109489506/179443163-05461f7e-0c20-4e32-aa09-e7bb52360c46.png)
+
