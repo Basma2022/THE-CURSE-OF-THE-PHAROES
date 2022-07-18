@@ -1,5 +1,5 @@
-# THE-CURSE-OF-THE-PHAROES
-Running 3D Game Built with Unity C#
+# THE-CURSE-OF-THE-PHAROES.
+Running 3D Game Built with Unity C#.
 Welcome to our pharaonic world. 
 Do you believe in the curse of the pharaohs?
 If you believe, please help the poor girl to break the curse she caused.
